@@ -1,0 +1,8 @@
+{
+  "name": "spacchetti-local-setup-example",
+  "set": "local",
+  "source": "",
+  "depends": [
+    "console"
+  ]
+}
